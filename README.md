@@ -110,6 +110,10 @@ These values are intentionally configured for a small prototype and can be adjus
 
 ![Hardware intrusion state](hardware/intrusion.jpg)
 
+## Circuit Diagram
+
+[Open the circuit diagram PDF](docs/circuit_diagram.pdf)
+
 ## Tools
 
 - Arduino IDE
